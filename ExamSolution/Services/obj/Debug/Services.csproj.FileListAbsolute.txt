@@ -1,0 +1,11 @@
+E:\SOAWithWCFandLINQ\ExamSolution\Services\bin\Debug\Services.dll
+E:\SOAWithWCFandLINQ\ExamSolution\Services\bin\Debug\Services.pdb
+E:\SOAWithWCFandLINQ\ExamSolution\Services\bin\Debug\DataAccess.dll
+E:\SOAWithWCFandLINQ\ExamSolution\Services\bin\Debug\ModelEntities.dll
+E:\SOAWithWCFandLINQ\ExamSolution\Services\bin\Debug\EntityFramework.dll
+E:\SOAWithWCFandLINQ\ExamSolution\Services\bin\Debug\DataAccess.pdb
+E:\SOAWithWCFandLINQ\ExamSolution\Services\bin\Debug\ModelEntities.pdb
+E:\SOAWithWCFandLINQ\ExamSolution\Services\bin\Debug\EntityFramework.xml
+E:\SOAWithWCFandLINQ\ExamSolution\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+E:\SOAWithWCFandLINQ\ExamSolution\Services\obj\Debug\Services.dll
+E:\SOAWithWCFandLINQ\ExamSolution\Services\obj\Debug\Services.pdb

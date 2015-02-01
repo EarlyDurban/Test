@@ -1,0 +1,10 @@
+E:\SOAWithWCFandLINQ\ExamSolution\ModelEntities\bin\Debug\ModelEntities.dll.config
+E:\SOAWithWCFandLINQ\ExamSolution\ModelEntities\bin\Debug\ModelEntities.dll
+E:\SOAWithWCFandLINQ\ExamSolution\ModelEntities\bin\Debug\ModelEntities.pdb
+E:\SOAWithWCFandLINQ\ExamSolution\ModelEntities\bin\Debug\EntityFramework.dll
+E:\SOAWithWCFandLINQ\ExamSolution\ModelEntities\bin\Debug\EntityFramework.SqlServer.dll
+E:\SOAWithWCFandLINQ\ExamSolution\ModelEntities\bin\Debug\EntityFramework.xml
+E:\SOAWithWCFandLINQ\ExamSolution\ModelEntities\bin\Debug\EntityFramework.SqlServer.xml
+E:\SOAWithWCFandLINQ\ExamSolution\ModelEntities\obj\Debug\ModelEntities.csprojResolveAssemblyReference.cache
+E:\SOAWithWCFandLINQ\ExamSolution\ModelEntities\obj\Debug\ModelEntities.dll
+E:\SOAWithWCFandLINQ\ExamSolution\ModelEntities\obj\Debug\ModelEntities.pdb

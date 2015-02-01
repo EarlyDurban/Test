@@ -1,0 +1,12 @@
+E:\SOAWithWCFandLINQ\ExamSolution\DataAccess\bin\Debug\DataAccess.dll.config
+E:\SOAWithWCFandLINQ\ExamSolution\DataAccess\bin\Debug\DataAccess.dll
+E:\SOAWithWCFandLINQ\ExamSolution\DataAccess\bin\Debug\DataAccess.pdb
+E:\SOAWithWCFandLINQ\ExamSolution\DataAccess\bin\Debug\EntityFramework.dll
+E:\SOAWithWCFandLINQ\ExamSolution\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\SOAWithWCFandLINQ\ExamSolution\DataAccess\bin\Debug\ModelEntities.dll
+E:\SOAWithWCFandLINQ\ExamSolution\DataAccess\bin\Debug\ModelEntities.pdb
+E:\SOAWithWCFandLINQ\ExamSolution\DataAccess\bin\Debug\EntityFramework.xml
+E:\SOAWithWCFandLINQ\ExamSolution\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\SOAWithWCFandLINQ\ExamSolution\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\SOAWithWCFandLINQ\ExamSolution\DataAccess\obj\Debug\DataAccess.dll
+E:\SOAWithWCFandLINQ\ExamSolution\DataAccess\obj\Debug\DataAccess.pdb
